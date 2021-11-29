@@ -32,5 +32,5 @@ jobs:
         python-root: '.'
         flake8-flags: ''
         mypy-flags: '--ignore-missing-imports'
-        fail-on-isort: true
+        fail-on-isort: false
         skip-flake8: true
